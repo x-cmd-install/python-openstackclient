@@ -1,0 +1,57 @@
+about:
+  description: Client for OpenStack services. Mirror of code maintained at opendev.org.
+  license: Apache-2.0
+  homepage: https://opendev.org/openstack/python-openstackclient
+  head: 926da72
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-31T06:04:48Z
+timeline:
+  created: 2012-04-28
+  lastCommit: 2026-08-28
+  lastRelease: ?
+popularity:
+  star: 361
+  watcher: 31
+  fork: 214
+  release: 0
+  contributor: 407
+  pullRequest: 9
+  issue: 0
+language:
+  Python: 6588111
+  Dockerfile: 1405
+totalLine: 6589516
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 72
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 153
+  last360d:
+    since: 2025-09-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 221
