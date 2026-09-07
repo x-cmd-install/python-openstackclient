@@ -5,7 +5,7 @@ about:
   head: 6ef4d93
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:56:08Z
+  collectedAt: 2026-09-07T19:28:44Z
 timeline:
   created: 2012-04-28
   lastCommit: 2026-09-03
@@ -80,7 +80,7 @@ total:
   commit: 6687
 ---
 path: /home/runner/.x-repo/github.com/openstack/python-openstackclient
-collectedAt: 2026-09-07T04:56:12Z
+collectedAt: 2026-09-07T19:28:48Z
 loc:
   Python:
     code: 163219
@@ -213,7 +213,7 @@ checks:
       - 'Info:   0 out of   2 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:56:14+00:00
+  collectedAt: 2026-09-07T19:28:49+00:00
   platform:
     darwin/arm64:
       name:  null
