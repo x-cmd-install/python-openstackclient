@@ -24,26 +24,26 @@ x install python-openstackclient
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6687
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 52 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 220 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 53 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 221 |
 
 ## Code size
 
-Total: **174,643** lines of code across **1404** files in the top 5 languages.
+Total: **174,733** lines of code across **1407** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 163,219 | 11,121 | 26,670 | 572 |
+| Python | 163,300 | 11,151 | 26,692 | 574 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
-| Yaml | 4,900 | 0 | 87 | 741 |
-| Toml | 892 | 3 | 29 | 1 |
+| Yaml | 4,907 | 0 | 88 | 742 |
+| Toml | 894 | 3 | 29 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard
@@ -61,8 +61,8 @@ Lowest-scoring checks:
 Install metadata for python-openstackclient lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `python-openstackclient` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/python-openstackclient.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/python-openstackclient.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:08:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:25Z._

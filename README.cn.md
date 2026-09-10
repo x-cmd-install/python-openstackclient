@@ -4,7 +4,7 @@
 
 Client for OpenStack services. Mirror of code maintained at opendev.org.
 
-![python-openstackclient](https://repo.x-cmd.io/python-openstackclient.svg)
+![python-openstackclient](https://repo.x-cmd.io/python-openstackclient.svg?lang=zh)
 
 ## 安装
 
@@ -24,26 +24,26 @@ x install python-openstackclient
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6687
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 52 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 220 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 53 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 221 |
 
 ## 代码规模
 
-合计: **174,643** 行代码（覆盖前 5 种语言、共 **1404** 个文件）。
+合计: **174,733** 行代码（覆盖前 5 种语言、共 **1407** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 163,219 | 11,121 | 26,670 | 572 |
+| Python | 163,300 | 11,151 | 26,692 | 574 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
-| Yaml | 4,900 | 0 | 87 | 741 |
-| Toml | 892 | 3 | 29 | 1 |
+| Yaml | 4,907 | 0 | 88 | 742 |
+| Toml | 894 | 3 | 29 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -65,4 +65,4 @@ python-openstackclient 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:08:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:25Z._
