@@ -12,28 +12,6 @@ Client for OpenStack services. Mirror of code maintained at opendev.org.
 x install python-openstackclient
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/openstack/python-openstackclient>
-- **官网**: <https://opendev.org/openstack/python-openstackclient>
-- **许可证**: Apache-2.0
-
-## 流行度
-
-- **Star**: 361 · **Fork**: 213 · **开放 issue**: 0 · **贡献者**: 404
-
-## 累计统计
-
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6689
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 53 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 221 |
-
 ## 代码规模
 
 合计: **174,733** 行代码（覆盖前 5 种语言、共 **1407** 个文件）。
@@ -56,6 +34,31 @@ x install python-openstackclient
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
+## 源代码
+
+- **上游仓库**: <https://github.com/openstack/python-openstackclient>
+- **官网**: <https://opendev.org/openstack/python-openstackclient>
+- **许可证**: Apache-2.0
+
+## 流行度
+
+- **Star**: 361 · **Fork**: 213 · **开放 issue**: 0 · **贡献者**: 404
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6689
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 15 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 53 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 152 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 221 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 682 |
+
 ## 改进这些数据
 
 python-openstackclient 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `python-openstackclient` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -65,4 +68,4 @@ python-openstackclient 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:48:09Z._
