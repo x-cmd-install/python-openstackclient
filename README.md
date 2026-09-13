@@ -14,13 +14,13 @@ x install python-openstackclient
 
 ## Code insight
 
-Total: **174,733** lines of code across **1407** files in the top 5 languages.
+Total: **174,924** lines of code across **1409** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 163,300 | 11,151 | 26,692 | 574 |
+| Python | 163,487 | 11,155 | 26,707 | 575 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
-| Yaml | 4,907 | 0 | 88 | 742 |
+| Yaml | 4,911 | 0 | 88 | 743 |
 | Toml | 894 | 3 | 29 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6689
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 15 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 53 |
-| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 152 |
-| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 221 |
-| last720d | 2024-09-21 | 0 | 0 | 0 | 0 | 0 | 682 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 14 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 39 |
+| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 149 |
+| 360d | 2025-09-18 | 0 | 0 | 0 | 0 | 0 | 221 |
+| last720d | 2024-09-23 | 0 | 0 | 0 | 0 | 0 | 684 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:04:37Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:11:44Z._
