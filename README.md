@@ -4,7 +4,7 @@
 
 Client for OpenStack services. Mirror of code maintained at opendev.org.
 
-![python-openstackclient](https://repo.x-cmd.io/python-openstackclient.svg)
+[![x-cmd/install — python-openstackclient Code Quality Monitoring Repo Card](https://repo.x-cmd.io/python-openstackclient.svg)](https://x-cmd.com/install/python-openstackclient)
 
 ## Install
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 15 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 40 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 151 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 223 |
-| last720d | 2024-09-28 | 0 | 0 | 0 | 0 | 0 | 686 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 12 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 26 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 129 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 220 |
+| last720d | 2024-09-30 | 0 | 0 | 0 | 0 | 0 | 686 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:15:20Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:24:55Z._
