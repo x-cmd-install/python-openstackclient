@@ -4,7 +4,7 @@
 
 Client for OpenStack services. Mirror of code maintained at opendev.org.
 
-[![x-cmd/install — python-openstackclient Code Quality Monitoring Repo Card](https://repo.x-cmd.io/python-openstackclient.svg?lang=zh)](https://x-cmd.com/install/python-openstackclient)
+[![x-cmd/install — python-openstackclient Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/python-openstackclient.svg?lang=zh)](https://x-cmd.com/install/python-openstackclient)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install python-openstackclient
 
 ## 代码洞察
 
-合计: **175,085** 行代码（覆盖前 5 种语言、共 **1412** 个文件）。
+合计: **175,224** 行代码（覆盖前 5 种语言、共 **1413** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 163,628 | 11,156 | 26,724 | 575 |
+| Python | 163,759 | 11,156 | 26,750 | 575 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
-| Yaml | 4,931 | 0 | 88 | 746 |
-| Toml | 894 | 3 | 29 | 1 |
+| Yaml | 4,937 | 0 | 88 | 747 |
+| Toml | 896 | 3 | 29 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -31,8 +31,8 @@ x install python-openstackclient
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install python-openstackclient
 
 ## 流行度
 
-- **Star**: 361 · **Fork**: 213 · **开放 issue**: 0 · **贡献者**: 404
+- **Star**: 361 · **Fork**: 214 · **开放 issue**: 0 · **贡献者**: 404
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6698
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6699
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 28 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 131 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 222 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 687 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 14 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 29 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 132 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 223 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 688 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ python-openstackclient 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:25:52Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:39:40Z._
