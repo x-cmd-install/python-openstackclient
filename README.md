@@ -14,14 +14,14 @@ x install python-openstackclient
 
 ## Code insight
 
-Total: **175,224** lines of code across **1413** files in the top 5 languages.
+Total: **176,940** lines of code across **1435** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 163,759 | 11,156 | 26,750 | 575 |
+| Python | 165,454 | 11,351 | 27,110 | 597 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
 | Yaml | 4,937 | 0 | 88 | 747 |
-| Toml | 896 | 3 | 29 | 1 |
+| Toml | 917 | 3 | 30 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6699
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6703
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 29 |
-| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 132 |
-| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 223 |
-| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 688 |
+| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 31 |
+| last180d | 2026-03-28 | 0 | 0 | 0 | 0 | 0 | 134 |
+| 360d | 2025-09-29 | 0 | 0 | 0 | 0 | 0 | 225 |
+| last720d | 2024-10-04 | 0 | 0 | 0 | 0 | 0 | 691 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:39:39Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:10:20Z._
