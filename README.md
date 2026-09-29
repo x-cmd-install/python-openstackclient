@@ -14,11 +14,11 @@ x install python-openstackclient
 
 ## Code insight
 
-Total: **176,940** lines of code across **1435** files in the top 5 languages.
+Total: **176,974** lines of code across **1435** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 165,454 | 11,351 | 27,110 | 597 |
+| Python | 165,488 | 11,351 | 27,113 | 597 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
 | Yaml | 4,937 | 0 | 88 | 747 |
 | Toml | 917 | 3 | 30 | 1 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 361 · **Forks**: 214 · **Open issues**: 0 · **Contributors**: 403
+- **Stars**: 361 · **Forks**: 214 · **Open issues**: 0 · **Contributors**: 404
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6703
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 13 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 25 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 133 |
-| 360d | 2025-10-03 | 0 | 0 | 0 | 0 | 0 | 224 |
-| last720d | 2024-10-08 | 0 | 0 | 0 | 0 | 0 | 690 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 14 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 26 |
+| last180d | 2026-04-02 | 0 | 0 | 0 | 0 | 0 | 134 |
+| 360d | 2025-10-04 | 0 | 0 | 0 | 0 | 0 | 225 |
+| last720d | 2024-10-09 | 0 | 0 | 0 | 0 | 0 | 691 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:53:04Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:12:08Z._
