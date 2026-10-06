@@ -14,11 +14,11 @@ x install python-openstackclient
 
 ## Code insight
 
-Total: **176,952** lines of code across **1435** files in the top 5 languages.
+Total: **177,074** lines of code across **1435** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 165,466 | 11,348 | 27,111 | 597 |
+| Python | 165,588 | 11,355 | 27,120 | 597 |
 | ReStructuredText | 5,484 | 0 | 2,274 | 89 |
 | Yaml | 4,937 | 0 | 88 | 747 |
 | Toml | 917 | 3 | 30 | 1 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6705
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6709
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 24 |
-| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 133 |
-| 360d | 2025-10-10 | 0 | 0 | 0 | 0 | 0 | 225 |
-| last720d | 2024-10-15 | 0 | 0 | 0 | 0 | 0 | 692 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 0 | 0 | 0 | 0 | 0 | 695 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:00:11Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:50:32Z._
