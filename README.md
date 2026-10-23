@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 18 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 27 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 128 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 232 |
-| last720d | 2024-11-01 | 0 | 0 | 0 | 0 | 0 | 701 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 18 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 128 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 232 |
+| last720d | 2024-11-02 | 0 | 0 | 0 | 0 | 0 | 701 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:03:11Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:07:07Z._
