@@ -90,7 +90,7 @@
 - repo: nix_unstable
   srcname: openstackclient
   visiblename: python-openstackclient
-  version: 10.3.0
+  version: 10.5.0
   origversion: null
   status: unique
   summary: OpenStack Command-line Client
@@ -103,7 +103,7 @@
 - repo: nix_unstable
   srcname: openstackclient-full
   visiblename: python-openstackclient
-  version: 10.3.0
+  version: 10.5.0
   origversion: null
   status: unique
   summary: OpenStack Command-line Client
