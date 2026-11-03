@@ -14,12 +14,12 @@ x install python-openstackclient
 
 ## Code insight
 
-Total: **177,147** lines of code across **1436** files in the top 5 languages.
+Total: **177,186** lines of code across **1436** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 165,653 | 11,362 | 27,140 | 597 |
-| ReStructuredText | 5,484 | 0 | 2,274 | 89 |
+| ReStructuredText | 5,523 | 0 | 2,296 | 89 |
 | Yaml | 4,946 | 0 | 88 | 748 |
 | Toml | 916 | 3 | 30 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6720
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6722
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 12 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 22 |
-| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 116 |
-| 360d | 2025-11-07 | 0 | 0 | 0 | 0 | 0 | 225 |
-| last720d | 2024-11-12 | 0 | 0 | 0 | 0 | 0 | 698 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 13 |
+| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 23 |
+| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 117 |
+| 360d | 2025-11-08 | 0 | 0 | 0 | 0 | 0 | 226 |
+| last720d | 2024-11-13 | 0 | 0 | 0 | 0 | 0 | 699 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:26:39Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:09:36Z._
