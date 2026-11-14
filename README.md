@@ -14,14 +14,14 @@ x install python-openstackclient
 
 ## Code insight
 
-Total: **177,269** lines of code across **1436** files in the top 5 languages.
+Total: **177,410** lines of code across **1441** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 165,671 | 11,349 | 27,140 | 596 |
-| ReStructuredText | 5,523 | 0 | 2,287 | 89 |
+| Python | 165,806 | 11,373 | 27,163 | 600 |
+| ReStructuredText | 5,528 | 0 | 2,288 | 90 |
 | Yaml | 4,960 | 0 | 88 | 749 |
-| Toml | 969 | 3 | 31 | 1 |
+| Toml | 970 | 3 | 32 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6730
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 6732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 19 |
-| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 29 |
-| last180d | 2026-05-17 | 0 | 0 | 0 | 0 | 0 | 122 |
-| 360d | 2025-11-18 | 0 | 0 | 0 | 0 | 0 | 226 |
-| last720d | 2024-11-23 | 0 | 0 | 0 | 0 | 0 | 700 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 21 |
+| 90d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 31 |
+| last180d | 2026-05-18 | 0 | 0 | 0 | 0 | 0 | 124 |
+| 360d | 2025-11-19 | 0 | 0 | 0 | 0 | 0 | 228 |
+| last720d | 2024-11-24 | 0 | 0 | 0 | 0 | 0 | 702 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for python-openstackclient lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:05:39Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:53:49Z._
