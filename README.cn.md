@@ -14,14 +14,14 @@ x install python-openstackclient
 
 ## 代码洞察
 
-合计: **177,706** 行代码（覆盖前 5 种语言、共 **1443** 个文件）。
+合计: **178,075** 行代码（覆盖前 5 种语言、共 **1446** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 166,091 | 11,392 | 27,184 | 601 |
+| Python | 166,440 | 11,404 | 27,236 | 601 |
 | ReStructuredText | 5,533 | 0 | 2,290 | 90 |
-| Yaml | 4,966 | 0 | 88 | 750 |
-| Toml | 970 | 3 | 32 | 1 |
+| Yaml | 4,985 | 0 | 89 | 753 |
+| Toml | 971 | 3 | 32 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -31,8 +31,8 @@ x install python-openstackclient
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install python-openstackclient
 
 ## 流行度
 
-- **Star**: 362 · **Fork**: 214 · **开放 issue**: 0 · **贡献者**: 405
+- **Star**: 362 · **Fork**: 214 · **开放 issue**: 0 · **贡献者**: 406
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6742
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6746
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 12 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 23 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 34 |
-| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 123 |
-| 360d | 2025-11-22 | 0 | 0 | 0 | 0 | 0 | 228 |
-| last720d | 2024-11-27 | 0 | 0 | 0 | 0 | 0 | 711 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 14 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 25 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 36 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 125 |
+| 360d | 2025-11-24 | 0 | 0 | 0 | 0 | 0 | 230 |
+| last720d | 2024-11-29 | 0 | 0 | 0 | 0 | 0 | 715 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ python-openstackclient 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:17:58Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:14:28Z._
