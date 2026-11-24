@@ -14,14 +14,14 @@ x install python-openstackclient
 
 ## 代码洞察
 
-合计: **178,917** 行代码（覆盖前 5 种语言、共 **1456** 个文件）。
+合计: **179,732** 行代码（覆盖前 5 种语言、共 **1469** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 167,221 | 11,447 | 27,369 | 604 |
-| ReStructuredText | 5,533 | 0 | 2,290 | 90 |
-| Yaml | 5,042 | 0 | 92 | 760 |
-| Toml | 975 | 3 | 32 | 1 |
+| Python | 168,017 | 11,555 | 27,566 | 616 |
+| ReStructuredText | 5,536 | 0 | 2,291 | 90 |
+| Yaml | 5,050 | 0 | 92 | 761 |
+| Toml | 981 | 3 | 32 | 1 |
 | Ini | 122 | 3 | 13 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -32,7 +32,7 @@ x install python-openstackclient
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -46,18 +46,18 @@ x install python-openstackclient
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6761
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 6769
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 0 | 0 | 0 | 0 | 0 | 728 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 30 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 39 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 128 |
+| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 231 |
+| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 0 | 736 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ python-openstackclient 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:25:19Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:07:31Z._
