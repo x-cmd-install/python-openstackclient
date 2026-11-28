@@ -2,15 +2,15 @@ about:
   description: "Client for OpenStack services. Mirror of code maintained at opendev.org."
   license: Apache-2.0
   homepage: https://opendev.org/openstack/python-openstackclient
-  head: bdac455
+  head: 7c73222
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:51:18Z
+  collectedAt: 2026-11-28T08:52:18Z
 timeline:
   created: 2012-04-28
-  lastCommit: 2026-11-26
+  lastCommit: 2026-11-27
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
@@ -23,73 +23,73 @@ popularity:
   pullRequest: 9
   issue: 0
 language:
-  Python: 6809847
+  Python: 6811352
   Dockerfile: 1401
-totalBytes: 6811248
+totalBytes: 6812753
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 23
+    commit: 24
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 35
+    commit: 36
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 44
+    commit: 45
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 133
+    commit: 134
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 236
+    commit: 237
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 745
+    commit: 747
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 6778
+  commit: 6780
 ---
 path: /home/runner/.x-repo/github.com/openstack/python-openstackclient
-collectedAt: 2026-11-27T08:51:25Z
+collectedAt: 2026-11-28T08:52:22Z
 loc:
   Python:
-    code: 168382
-    comments: 11567
-    blanks: 27609
+    code: 168426
+    comments: 11568
+    blanks: 27610
     files: 616
   ReStructuredText:
     code: 5536
@@ -132,9 +132,9 @@ loc:
     blanks: 1
     files: 2
 total:
-  code: 180108
-  comments: 11767
-  blanks: 30048
+  code: 180152
+  comments: 11768
+  blanks: 30049
   files: 1476
 ---
 date: "2026-11-23"
